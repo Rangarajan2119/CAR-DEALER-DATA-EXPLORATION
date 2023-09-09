@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rangarajan2119
+- 👀 I’m interested in SQL, POWER BI
+- 🌱 I’m currently learning ...SQL
+- 📫 How to reach me rengarajan1999@gmail.com
